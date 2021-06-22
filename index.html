@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Music Map</title>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.2.0/dist/svgMap.min.css">
+
+  <script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.2.0/dist/svgMap.min.js"></script>
+  <script type="module" src="./scripts/music-map.js"></script>
+
+
+</head>
+
+<style>
+
+  body {
+    color: #fff;
+  }
+
+  h1, p {
+    margin: 7px 0;
+  }
+
+  /* override oceans color */
+  body, .svgMap-map-wrapper { 
+    background: #2C2C2C;
+  }
+
+  .svgMap-tooltip {
+    background: #181a1b;
+  }
+
+  /* tooltip content (left side) */
+  .svgMap-tooltip .svgMap-tooltip-content {
+    color: #e8e6e3;
+  }
+
+  /* tooltip content (no data) */
+  .svgMap-tooltip .svgMap-tooltip-content .svgMap-tooltip-no-data {
+    color: #fff;
+  }
+
+  /* tooltip content (right side) */
+  .svgMap-tooltip .svgMap-tooltip-content table td span {
+    color: #fff;
+  }
+
+  .text-center {
+    text-align: center;
+  }
+
+  #map-wrapper {
+    width: 80vw;
+    margin: auto;
+  }
+
+
+</style>
+
+<body>
+  <div class="text-center">
+    <h1>MC23 Music Map</h1>
+    <p>One album for each country, the color scale is based on the year of release.</p>
+  </div>
+  
+  <div id="map-wrapper">
+    <div id="map" ></div>
+  </div>
+</body>
+</html>
+
