@@ -24,7 +24,7 @@ new svgMap({
         artist: 'Francis Bebey',
         album: 'Psychedelic Sanza 1982-1984',
         year: 2014,
-        genres: 'Bikutsi',
+        genres: 'Bikutsi, Central African Music',
         link: 'https://rateyourmusic.com/release/comp/francis-bebey/psychedelic-sanza-1982-1984/',
         linkTarget: '_blank'
       },
@@ -93,6 +93,69 @@ new svgMap({
       },
 
 //! ASIA
+      // CHINA
+      CN: {
+        artist: 'Enmity',
+        album: 'Wuyuan',
+        year: 2005,
+        genres: 'Dark Ambient, Ritual Ambient',
+        link: 'https://rateyourmusic.com/release/album/%E6%80%A8/%E5%B7%AB%E6%80%A8-wuyuan/',
+        linkTarget: '_blank'
+      },
+      // INDIA
+      IN: {
+        artist: 'Rakesh Chaurasia',
+        album: 'Purity 3',
+        year: 2004,
+        genres: 'Hindustani Classical Music',
+        link: 'https://rateyourmusic.com/release/single/rakesh-chaurasia/purity-3/',
+        linkTarget: '_blank'
+      },
+      // JAPAN
+      JP: {
+        artist: 'Koto Ensamble Of The Ikuta School',
+        album: 'Japanese Koto Orchestra',
+        year: 1989,
+        genres: 'Jiuta, Sōkyoku',
+        link: 'https://rateyourmusic.com/release/album/koto-ensemble-of-the-ikuta-school/japanese-koto-orchestra/',
+        linkTarget: '_blank'
+      },
+      // PAKISTAN
+      PK: {
+        artist: 'Nusrat Fateh Ali Khan',
+        album: 'Shahen-Shah',
+        year: 1989,
+        genres: 'Qawwali',
+        link: 'https://rateyourmusic.com/release/album/nusrat-fateh-ali-khan/shahen-shah/',
+        linkTarget: '_blank'
+      },
+      // SOUTH KOREA
+      KR: {
+        artist: 'Witches',
+        album: 'Broomstick',
+        year: 2002,
+        genres: 'K-Rock, Ska',
+        link: 'https://rateyourmusic.com/artist/witches-1',
+        linkTarget: '_blank'
+      },
+      // TAIWAN
+      TW: {
+        artist: 'Elephant Gym',
+        album: 'Angle',
+        year: 2014,
+        genres: 'Math Rock',
+        link: 'https://rateyourmusic.com/release/album/%E5%A4%A7%E8%B1%A1%E9%AB%94%E6%93%8D/%E8%A7%92%E5%BA%A6-angle/',
+        linkTarget: '_blank'
+      },
+      // THAILAND
+      TH: {
+        artist: 'Thai Elephant Orchestra',
+        album: 'Thai Elephant Orchestra',
+        year: 2000,
+        genres: 'Field Recordings, Free Improvisation',
+        link: 'https://rateyourmusic.com/release/album/thai-elephant-orchestra-dave-soldier-and-richard-lair/thai-elephant-orchestra/',
+        linkTarget: '_blank'
+      },
       // TURKEY
       TR: {
         artist: 'Erkin Koray',
@@ -116,13 +179,22 @@ new svgMap({
       },
 
 //! EUROPE
+      // Andorra
+      AD: {
+        artist: 'Persefone',
+        album: 'Shin-ken',
+        year: 2009,
+        genres: 'Melodic Death Metal, Progressive Metal',
+        link: 'https://rateyourmusic.com/release/album/persefone/shin_ken/',
+        linkTarget: '_blank'
+      },
       // AUSTRIA
       AT: {
         artist: 'Zero Kama',
         album: 'The Secret Eye of L.A.Y.L.A.H.',
         year: 1984,
         genres: 'Ritual Ambient, Tribal Ambient',
-        link: 'https://rateyourmusic.com/release/album/zero-kama/the-secret-eye-of-l_a_y_l_a_h//',
+        link: 'https://rateyourmusic.com/release/album/zero-kama/the-secret-eye-of-l_a_y_l_a_h/',
         linkTarget: '_blank'
       },
       // BELARUS
@@ -150,6 +222,15 @@ new svgMap({
         year: 1993,
         genres: 'Balkan Folk Music, Film Score',
         link: 'https://rateyourmusic.com/release/album/goran-bregovic/arizona-dream/',
+        linkTarget: '_blank'
+      },
+      // FAROE ISLANDS
+      FO: {
+        artist: 'Heljareyga',
+        album: 'Heljareyga',
+        year: 2010,
+        genres: 'Power Metal, Progressive Metal',
+        link: 'https://rateyourmusic.com/release/album/heljareyga/heljareyga/',
         linkTarget: '_blank'
       },
       // FINLAND
@@ -314,6 +395,15 @@ new svgMap({
         link: 'https://rateyourmusic.com/release/album/detektivbyran/wermland/',
         linkTarget: '_blank'
       },
+      // SWITZERLAND
+      CH: {
+        artist: 'Eluveitie',
+        album: 'Evocation I - The Arcane Dominion',
+        year: 2009,
+        genres: 'Celtic Folk Music',
+        link: 'https://rateyourmusic.com/release/album/eluveitie/evocation-i-the-arcane-dominion/',
+        linkTarget: '_blank'
+      },
       // UNITED KINGDOM
       GB: {
         artist: 'Skream',
@@ -325,6 +415,36 @@ new svgMap({
       },
 
       
+
+//! MIDDLE EAST
+      // ISRAEL
+      IL: {
+        artist: 'Infected Mushroom',
+        album: 'Legend Of The Black Shawarma',
+        year: 2009,
+        genres: 'Psytrance',
+        link: 'https://rateyourmusic.com/release/album/infected-mushroom/legend-of-the-black-shawarma/',
+        linkTarget: '_blank'
+      },
+      // LEBANON
+      LB: {
+        artist: 'Rabih Abou-Khalil',
+        album: 'Blue Camel',
+        year: 1992,
+        genres: 'Arabic Jazz',
+        link: 'https://rateyourmusic.com/release/album/rabih-abou-khalil/blue-camel/',
+        linkTarget: '_blank'
+      },
+      // SAUDI ARABIA
+      SA: {
+        artist: 'Mahmoud Awad',
+        album: 'Sheikh To The F.U.T.U.R.E',
+        year: 2009,
+        genres: 'Dabke, Experimental, Neo-Psychedelia',
+        link: 'https://rateyourmusic.com/release/album/mahmoud-awad/sheikh-to-the-f_u_t_u_r_e/',
+        linkTarget: '_blank'
+      },
+
 
 //! NORTH AMERICA
       // CANADA
@@ -355,6 +475,27 @@ new svgMap({
         linkTarget: '_blank'
       },
 
+//! OCEANIA
+      // AUSTRALIA
+      AU: {
+        artist: 'Dead Can Dance',
+        album: 'Dionysus',
+        year: 2018,
+        genres: 'Neoclassical New Age, Tribal Ambient',
+        link: 'https://rateyourmusic.com/release/album/dead-can-dance/dionysus/',
+        linkTarget: '_blank'
+      },
+      // NEW ZEALAND
+      NZ: {
+        artist: 'David Parsons',
+        album: 'Shaman',
+        year: 1999,
+        genres: 'Ambient',
+        link: 'https://rateyourmusic.com/release/album/david_parsons/shaman/',
+        linkTarget: '_blank'
+      },
+
+
 //! SOUTH AMERICA
       // ARGENTINA
       AR: {
@@ -374,12 +515,21 @@ new svgMap({
         link: 'https://rateyourmusic.com/release/album/pedro_santos/krishnanda/',
         linkTarget: '_blank'
       },
+      // COLOMBIA
+      CO: {
+        artist: 'HeadCrusher',
+        album: 'Let The Blood Run',
+        year: 2012,
+        genres: 'Death Metal',
+        link: 'https://rateyourmusic.com/release/album/headcrusher/let_the_blood_run/',
+        linkTarget: '_blank'
+      },
       // PERU
       PE: {
         artist: 'Immortal Technique',
         album: 'Revolutionary Vol. 2',
         year: 2003,
-        genres: 'Political Hip-Hop, East Coast Hip-Hop',
+        genres: 'Political Hip-Hop',
         link: 'https://rateyourmusic.com/release/album/immortal-technique/revolutionary-vol-2/',
         linkTarget: '_blank'
       },
