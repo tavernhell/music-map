@@ -358,7 +358,7 @@ export const countryList = {
     album: 'Nowa Ex-Tradycja',
     year: 2008,
     genres: 'Neo-Pagan Folk',
-    link: 'https://rateyourmusic.com/release/album/moonspell/wolfheart/',
+    link: 'https://rateyourmusic.com/release/album/zywiolak/nowa-ex-tradycja/',
     linkTarget: '_blank'
   },
   // PORTUGAL
