@@ -316,6 +316,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/il-bacio-della-medusa/discesa-aglinferi-dun-giovane-amante/',
     linkTarget: '_blank'
   },
+  // LATVIA
+  LV: {
+    artist: 'Tautumeitas',
+    album: 'Tautumeitas',
+    year: 2018,
+    genres: 'Latvian Folk Music',
+    link: 'https://rateyourmusic.com/release/album/tautumeitas/tautumeitas/',
+    linkTarget: '_blank'
+  },
   // MACEDONIA
   MK: {
     artist: 'Aporea',
@@ -363,7 +372,7 @@ export const countryList = {
   },
   // ROMANIA
   RO: {
-    artist: 'Sunset in the 12th House',
+    artist: 'Sunset In The 12th House',
     album: 'Mozaic',
     year: 2015,
     genres: 'Post-Rock, Post-Metal',
@@ -422,6 +431,15 @@ export const countryList = {
     year: 2006,
     genres: 'Dubstep',
     link: 'https://rateyourmusic.com/release/album/skream/skream/',
+    linkTarget: '_blank'
+  },
+  // VATICAN CITY
+  VA: {
+    artist: 'Cappella Musicale Pontificia Sistina',
+    album: 'Cantate Domino',
+    year: 2015,
+    genres: 'Christian Liturgical Music, Renaissance Music',
+    link: 'https://rateyourmusic.com/release/album/cappella_musicale_pontificia_sistina_massimo_palombella/cantate_domino/',
     linkTarget: '_blank'
   },
 
@@ -537,11 +555,11 @@ export const countryList = {
   },
   // PERU
   PE: {
-    artist: 'Immortal Technique',
-    album: 'Revolutionary Vol. 2',
-    year: 2003,
-    genres: 'Political Hip-Hop',
-    link: 'https://rateyourmusic.com/release/album/immortal-technique/revolutionary-vol-2/',
+    artist: 'Yma Súmac',
+    album: 'Mambo!',
+    year: 1954,
+    genres: 'Exotica, Mambo',
+    link: 'https://rateyourmusic.com/release/album/yma-sumac/mambo/',
     linkTarget: '_blank'
   },
   // VENEZUELA
