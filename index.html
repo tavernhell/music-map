@@ -20,17 +20,19 @@
 </head>
 
 <body>
-  <div class="text-center">
-    <h1>My Music Map</h1>
-    <p>
-      One release for each country, the color scale is based on the year of release (ascending order). <br> 
-      Clicking on a non-empty country will redirect to the album page on RYM.</p>
+  <div id="music-map-div" class="hideable">
+    <div class="text-center">
+      <h1>My Music Map</h1>
+      <p>
+        One release for each country, the color scale is based on the year of release (ascending order). <br> 
+        Clicking on a non-empty country will redirect to the album page on RYM.</p>
+    </div>
+    
+    <div id="map-container" class="m-auto">
+      <div id="map" ></div>
+    </div>
+    <div style="padding: 30px 0"></div>
   </div>
-  
-  <div id="map-container" class="m-auto">
-    <div id="map" ></div>
-  </div>
-  <div style="padding: 30px 0"></div>
 
     <div class="text-center">
       <h1>List Version</h1>
@@ -40,7 +42,7 @@
   <div id="table-container" class="m-auto">
     <div id="filter-container" class="p-1">
       <!-- FILTERS -->
-      <input class="search" placeholder="Search..." class="m-auto">
+      <input class="search m-auto" placeholder="Search...">
     </div>
     <!-- TABLE -->
     <table id="music-table">

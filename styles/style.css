@@ -4,7 +4,6 @@
 }
 
 /* ! GENERAL */
-
 body {
   color: #fff;
   background: var(--bgc);
@@ -84,9 +83,8 @@ h1, p {
 }
 
 #filter-container .search {
-  width: 25vw;
+  width: 300px;
   display: block; /* needed to make margin auto effecive */
-  margin: auto;
 }
 
 /*# TABLE ELEMENT AND CHILDREN */
@@ -108,4 +106,18 @@ h1, p {
 #music-table :where(a, a:hover) {
   color: #fff;
   text-decoration: none;
+}
+
+/*! MEDIA QUERIES */
+@media screen and (max-width: 1200px) {
+  /* hides the element without causing problems (like display:none; or visibility: hidden; would) */
+  .hideable {
+    position: absolute;
+    bottom: 10000px;
+  }
+
+  /* when the screen is resized, show the scrollbar on right as it won't "conflict" anymore with the browser's one */
+  #table-container {
+    direction: ltr;
+  }
 }
