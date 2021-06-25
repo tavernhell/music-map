@@ -17,11 +17,6 @@ h1, p {
   text-align: center;
 }
 
-.hidden {
-  visibility: hidden;
-  max-width: 0px;
-}
-
 .m-auto {
   margin: auto;
 }
@@ -119,5 +114,12 @@ h1, p {
   /* when the screen is resized, show the scrollbar on right as it won't "conflict" anymore with the browser's one */
   #table-container {
     direction: ltr;
+  }
+}
+
+
+@media screen and (min-width: 1201px) {
+  .display-small {
+    display: none;
   }
 }
