@@ -1,0 +1,111 @@
+/*! GLOBAL VARIABLES */
+:root {
+  --bgc: #2C2C2C; /* background color */
+}
+
+/* ! GENERAL */
+
+body {
+  color: #fff;
+  background: var(--bgc);
+}
+
+h1, p {
+  margin: 7px 0;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.hidden {
+  visibility: hidden;
+  max-width: 0px;
+}
+
+.m-auto {
+  margin: auto;
+}
+
+.p-1 {
+  padding: 1rem 0;
+}
+
+/*! MAP */
+#map-container {
+  width: calc(82vw - 100px);
+  border: 2px solid #fff;
+  border-radius: 3px;
+}
+
+/* override oceans color */
+.svgMap-map-wrapper { 
+  background: var(--bgc);
+}
+
+.svgMap-tooltip {
+  background: #181a1b;
+}
+
+/* tooltip content (left side) */
+.svgMap-tooltip .svgMap-tooltip-content {
+  color: #e8e6e3;
+}
+
+/* tooltip content (no data) */
+.svgMap-tooltip .svgMap-tooltip-content .svgMap-tooltip-no-data {
+  color: #fff;
+}
+
+/* tooltip content (right side) */
+.svgMap-tooltip .svgMap-tooltip-content table td span {
+  color: #fff;
+}
+
+/* ! TABLE */
+
+/*# CONTAINER */
+#table-container {
+  max-height: calc(95vh - 100px);
+  overflow-y: auto;
+  direction: rtl; /* position scrollbar on left */
+}
+
+#table-container * {
+  direction: ltr; /* restore ltr */
+}
+
+#table-container th { 
+  background: #222;
+  /* keep the table headers on top */
+  position: sticky; 
+  top: 0; 
+  z-index: 1; 
+}
+
+#filter-container .search {
+  width: 25vw;
+  display: block; /* needed to make margin auto effecive */
+  margin: auto;
+}
+
+/*# TABLE ELEMENT AND CHILDREN */
+#music-table {
+  border-collapse: collapse;
+  width: 95%;
+  margin: 0 auto;
+}
+
+#music-table :where(th, td) {
+  border: 1px solid #fff;
+  padding: 5px 10px;
+}
+
+#music-table th.sort {
+  cursor: pointer;
+}
+
+#music-table :where(a, a:hover) {
+  color: #fff;
+  text-decoration: none;
+}

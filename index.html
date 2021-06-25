@@ -6,60 +6,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Music Map</title>
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.2.0/dist/svgMap.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.2.0/dist/svgMap.min.css">
+  <link rel="stylesheet" href="./styles/style.css">
 
-  <script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.2.0/dist/svgMap.min.js"></script>
-  <script type="module" src="./scripts/music-map.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.2.0/dist/svgMap.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+  
+  <script type="module">
 
-
+    import "./scripts/music-map.js";
+    import "./scripts/music-list.js";
+  </script>
 </head>
-
-<style>
-
-  body {
-    color: #fff;
-  }
-
-  h1, p {
-    margin: 7px 0;
-  }
-
-  /* override oceans color */
-  body, .svgMap-map-wrapper { 
-    background: #2C2C2C;
-  }
-
-  .svgMap-tooltip {
-    background: #181a1b;
-  }
-
-  /* tooltip content (left side) */
-  .svgMap-tooltip .svgMap-tooltip-content {
-    color: #e8e6e3;
-  }
-
-  /* tooltip content (no data) */
-  .svgMap-tooltip .svgMap-tooltip-content .svgMap-tooltip-no-data {
-    color: #fff;
-  }
-
-  /* tooltip content (right side) */
-  .svgMap-tooltip .svgMap-tooltip-content table td span {
-    color: #fff;
-  }
-
-  .text-center {
-    text-align: center;
-  }
-
-  #map-wrapper {
-    width: calc(90vw - 100px);
-    margin: auto;
-  }
-
-
-</style>
 
 <body>
   <div class="text-center">
@@ -69,8 +28,34 @@
       Clicking on a non-empty country will redirect to the album page on RYM.</p>
   </div>
   
-  <div id="map-wrapper">
+  <div id="map-container" class="m-auto">
     <div id="map" ></div>
+  </div>
+  <div style="padding: 30px 0"></div>
+
+    <div class="text-center">
+      <h1>List Version</h1>
+      <p>
+        Click on the header (except for genres) to sort the table. Clicking on the album will bring you to its RYM page.</p>
+    </div>
+  <div id="table-container" class="m-auto">
+    <div id="filter-container" class="p-1">
+      <!-- FILTERS -->
+      <input class="search" placeholder="Search..." class="m-auto">
+    </div>
+    <!-- TABLE -->
+    <table id="music-table">
+      <thead>
+        <th class="sort" data-sort="country">Country</th>
+        <th class="sort" data-sort="artist">Artist</th>
+        <th class="sort" data-sort="album">Album</th>
+        <th class="sort" data-sort="year">Year</th>
+        <th>Genre(s)</th>
+      </thead>
+      <tbody class="list">
+
+      </tbody>
+    </table>
   </div>
 </body>
 </html>
