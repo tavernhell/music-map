@@ -21,6 +21,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/americo-brito/sintado-na-pracinha/',
     linkTarget: '_blank'
   },
+  // CONGO
+  CD: {
+    artist: 'Franco & Le Tout Puissant OK Jazz',
+    album: 'Maby… Tonton Zala Serieux',
+    year: 1991,
+    genres: 'Soukous',
+    link: 'https://rateyourmusic.com/release/album/lorchestre_tout_puissant_o_k__jazz/maby____tonton_zala_serieux/',
+    linkTarget: '_blank'
+  },
   // ETHIOPIA
   ET: {
     artist: 'Mulatu Astatke',
@@ -73,6 +82,15 @@ export const countryList = {
     year: 1974,
     genres: 'Afrobeat, Jazz-Funk',
     link: 'https://rateyourmusic.com/release/album/fela-ransome-kuti-and-the-africa-70/confusion/',
+    linkTarget: '_blank'
+  },
+  // TOGO
+  TG: {
+    artist: 'Akofa Akoussah',
+    album: 'Akofa Akoussah',
+    year: 1976,
+    genres: 'Chanson, Ewe Music',
+    link: 'https://rateyourmusic.com/release/album/akofa-akoussah/akofa-akoussah/',
     linkTarget: '_blank'
   },
   // SOUTH AFRICA
