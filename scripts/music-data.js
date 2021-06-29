@@ -343,6 +343,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/tautumeitas/tautumeitas/',
     linkTarget: '_blank'
   },
+  // LUXEMBOURG
+  LU: {
+    artist: 'ROME',
+    album: 'Flowers From Exile',
+    year: 2009,
+    genres: 'Martial Industrial, Neofolk',
+    link: 'https://rateyourmusic.com/release/album/rome/flowers-from-exile/',
+    linkTarget: '_blank'
+  },
   // MACEDONIA
   MK: {
     artist: 'Aporea',
