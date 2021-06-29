@@ -451,6 +451,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/eluveitie/evocation-i-the-arcane-dominion/',
     linkTarget: '_blank'
   },
+  // UKRAINE
+  UA: {
+    artist: 'DakhaBrakha',
+    album: 'Alambari',
+    year: 2020,
+    genres: 'Cabaret, Folk Pop, Ukrainian Folk Music',
+    link: 'https://rateyourmusic.com/release/album/%D0%B4%D0%B0%D1%85%D0%B0%D0%B1%D1%80%D0%B0%D1%85%D0%B0/alambari/',
+    linkTarget: '_blank'
+  },
   // UNITED KINGDOM
   GB: {
     artist: 'Skream',
