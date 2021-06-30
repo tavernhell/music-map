@@ -30,6 +30,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/lorchestre_tout_puissant_o_k__jazz/maby____tonton_zala_serieux/',
     linkTarget: '_blank'
   },
+  // EQUATORIAL GUINEA
+  GQ: {
+    artist: 'Lion Sitté',
+    album: 'Otros Tiempos',
+    year: 2012,
+    genres: 'Dancehall',
+    link: 'https://rateyourmusic.com/release/album/lion_sitte/otros_tiempos/',
+    linkTarget: '_blank'
+  },
   // ETHIOPIA
   ET: {
     artist: 'Mulatu Astatke',
@@ -55,6 +64,15 @@ export const countryList = {
     year: 1983,
     genres: 'Mande Music',
     link: 'https://rateyourmusic.com/release/album/djeli-moussa-diawara/yasimika/',
+    linkTarget: '_blank'
+  },
+  // IVORY COAST
+  CI: {
+    artist: 'Magic System',
+    album: '1er Gaou',
+    year: 2000,
+    genres: 'Zouglou',
+    link: 'https://rateyourmusic.com/release/album/magic-system/1er-gaou/',
     linkTarget: '_blank'
   },
   // MALI
@@ -251,6 +269,15 @@ export const countryList = {
     year: 1993,
     genres: 'Balkan Folk Music, Film Score',
     link: 'https://rateyourmusic.com/release/album/goran-bregovic/arizona-dream/',
+    linkTarget: '_blank'
+  },
+  // DENMARK
+  DK: {
+    artist: 'Kongehuset',
+    album: '...Klarer Ærterne',
+    year: 1996,
+    genres: 'Hip-Hop',
+    link: 'https://rateyourmusic.com/release/album/kongehuset/___klarer_aerterne/',
     linkTarget: '_blank'
   },
   // FAROE ISLANDS
