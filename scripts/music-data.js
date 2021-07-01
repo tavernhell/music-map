@@ -158,6 +158,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/koto-ensemble-of-the-ikuta-school/japanese-koto-orchestra/',
     linkTarget: '_blank'
   },
+  // MONGOLIA
+  MN: {
+    artist: 'Hurd',
+    album: 'Evirleh Argagvi',
+    year: 2005,
+    genres: 'Heavy Metal',
+    link: 'https://rateyourmusic.com/release/album/hurd/evirleh_argagvi/',
+    linkTarget: '_blank'
+  },
   // PAKISTAN
   PK: {
     artist: 'Nusrat Fateh Ali Khan',
@@ -518,6 +527,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/infected-mushroom/legend-of-the-black-shawarma/',
     linkTarget: '_blank'
   },
+  // IRAN
+  IR: {
+    artist: 'Shahram Shabpareh',
+    album: 'Ey Ghashangtar Az Paria',
+    year: 1994,
+    genres: 'Persian Pop',
+    link: 'https://rateyourmusic.com/release/album/%D8%B4%D9%87%D8%B1%D8%A7%D9%85-shahram/%D8%A7%D9%89-%D9%82%D8%B4%D9%86%DA%AF-%D8%AA%D8%B1-%D8%A7%D8%B2-%D9%BE%D8%B1%D9%8A%D8%A7-ey-ghashangtar-az-paria/',
+    linkTarget: '_blank'
+  },
   // LEBANON
   LB: {
     artist: 'Rabih Abou-Khalil',
@@ -605,6 +623,15 @@ export const countryList = {
     year: 1968,
     genres: 'Música Popular Brasileira, Psychedelic Folk',
     link: 'https://rateyourmusic.com/release/album/pedro_santos/krishnanda/',
+    linkTarget: '_blank'
+  },
+  // CHILE
+  CL: {
+    artist: 'Los Jaivas',
+    album: 'Los Jaivas',
+    year: 1975,
+    genres: 'Andean Rock, Progressive Rock',
+    link: 'https://rateyourmusic.com/release/album/los-jaivas/los-jaivas-el-indio/',
     linkTarget: '_blank'
   },
   // COLOMBIA
