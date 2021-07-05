@@ -233,6 +233,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/buena_vista_social_club/buena_vista_social_club/',
     linkTarget: '_blank'
   },
+  // TRINIDAD AND TOBAGO
+  TT: {
+    artist: 'The Esso Trinidad Steel Band',
+    album: 'The Esso Trinidad Steel Band',
+    year: 1971,
+    genres: 'Calypso',
+    link: 'https://rateyourmusic.com/release/album/the-esso-trinidad-steel-band/the-esso-trinidad-steel-band/',
+    linkTarget: '_blank'
+  },
 
   //! EUROPE
   // Andorra
@@ -451,6 +460,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/kauan/sorni-nai/',
     linkTarget: '_blank'
   },
+  // SERBIA
+  RS: {
+    artist: 'Mimi Mercedez',
+    album: 'Našminkam Se I Pravim Haos',
+    year: 2016,
+    genres: 'Hip-Hop, Trap',
+    link: 'https://rateyourmusic.com/release/album/mimi-mercedez/nasminkam-se-i-pravim-haos/',
+    linkTarget: '_blank'
+  },
   // SLOVENIA
   SI: {
     artist: 'Gramatik',
@@ -564,6 +582,15 @@ export const countryList = {
     year: 2005,
     genres: 'Breakcore, Drill & Bass',
     link: 'https://rateyourmusic.com/release/album/venetian-snares/rossz-csillag-alatt-szuletett/',
+    linkTarget: '_blank'
+  },
+  // GREENLAND
+  GL: {
+    artist: 'Sume',
+    album: 'Sumut',
+    year: 1973,
+    genres: 'Progressive Rock, Psychedelic Rock',
+    link: 'https://rateyourmusic.com/release/album/sume/sumut/',
     linkTarget: '_blank'
   },
   // MEXICO
