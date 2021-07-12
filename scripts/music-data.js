@@ -3,6 +3,15 @@
 export const countryList = {
 
   //! AFRICA
+  // ALGERIA
+  DZ: {
+    artist: 'Khaled',
+    album: 'Khaled',
+    year: 1992,
+    genres: 'Funk, Pop Raï',
+    link: 'https://rateyourmusic.com/release/album/khaled/khaled/',
+    linkTarget: '_blank'
+  },
   // CAMEROON
   CM: {
     artist: 'Francis Bebey',
@@ -167,6 +176,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/hurd/evirleh_argagvi/',
     linkTarget: '_blank'
   },
+  // NORTH KOREA
+  KP: {
+    artist: 'Akio Suzuki',
+    album: '“ m e r i d i a n s c e n e r y “',
+    year: 2021,
+    genres: 'Experimental, Field Recordings',
+    link: 'https://rateyourmusic.com/release/album/akio-suzuki/m-e-r-i-d-i-a-n-s-c-e-n-e-r-y/',
+    linkTarget: '_blank'
+  },
   // PAKISTAN
   PK: {
     artist: 'Nusrat Fateh Ali Khan',
@@ -296,6 +314,15 @@ export const countryList = {
     year: 1996,
     genres: 'Hip-Hop',
     link: 'https://rateyourmusic.com/release/album/kongehuset/___klarer_aerterne/',
+    linkTarget: '_blank'
+  },
+  // ESTONIA
+  EE: {
+    artist: 'Marju Kuut / Uno Loop',
+    album: 'Marju Kuut / Uno Loop',
+    year: 1971,
+    genres: 'Bossanova',
+    link: 'https://rateyourmusic.com/release/album/%D0%BC%D0%B0%D1%80%D1%8C%D1%8E_%D0%BA%D1%83%D1%83%D1%82___%D1%83%D0%BD%D0%BE_%D0%BB%D0%BE%D0%BE%D0%BF/%D0%BC%D0%B0%D1%80%D1%8C%D1%8E_%D0%BA%D1%83%D1%83%D1%82___%D1%83%D0%BD%D0%BE_%D0%BB%D0%BE%D0%BE%D0%BF/',
     linkTarget: '_blank'
   },
   // FAROE ISLANDS
@@ -677,6 +704,15 @@ export const countryList = {
     year: 1954,
     genres: 'Exotica, Mambo',
     link: 'https://rateyourmusic.com/release/album/yma-sumac/mambo/',
+    linkTarget: '_blank'
+  },
+  // URUGUAY
+  UY: {
+    artist: 'Conjunto Casino de Uruguay',
+    album: 'Que Golazo',
+    year: 1976,
+    genres: 'Guaracha, Plena, Salsa',
+    link: 'https://rateyourmusic.com/release/album/conjunto-casino/que-golazo/',
     linkTarget: '_blank'
   },
   // VENEZUELA
