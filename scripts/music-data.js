@@ -84,6 +84,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/magic-system/1er-gaou/',
     linkTarget: '_blank'
   },
+  // MADAGASCAR
+  MG: {
+    artist: 'D\'Gary',
+    album: 'Malagasy Guitar: Music From Madagascar',
+    year: 1992,
+    genres: 'Malagasy Folk Music',
+    link: 'https://rateyourmusic.com/release/album/dgary/malagasy-guitar/',
+    linkTarget: '_blank'
+  },
   // MALI
   ML: {
     artist: 'AfroCubism',
@@ -158,6 +167,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/single/rakesh-chaurasia/purity-3/',
     linkTarget: '_blank'
   },
+  // INDONESIA
+  ID: {
+    artist: 'Harry Roesli',
+    album: 'Titik Api',
+    year: 1976,
+    genres: 'Gamelan, Progressive Rock, Psychedelic Rock',
+    link: 'https://rateyourmusic.com/release/album/harry-rusli/titik-api/',
+    linkTarget: '_blank'
+  },
   // JAPAN
   JP: {
     artist: 'Koto Ensamble Of The Ikuta School',
@@ -167,6 +185,24 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/koto-ensemble-of-the-ikuta-school/japanese-koto-orchestra/',
     linkTarget: '_blank'
   },
+  // KAZAKHSTAN
+  KZ: {
+    artist: 'Linda',
+    album: 'Vorona',
+    year: 1996,
+    genres: 'Downtempo, Pop Rock',
+    link: 'https://rateyourmusic.com/release/album/%D0%BB%D0%B8%D0%BD%D0%B4%D0%B0/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B0/',
+    linkTarget: '_blank'
+  },
+  // MALAYSIA
+  MY: {
+    artist: 'The Strollers',
+    album: 'Waiting Is...',
+    year: 1973,
+    genres: 'Psychedelic Pop, Psychedelic Rock',
+    link: 'https://rateyourmusic.com/release/album/the_strollers_f4/waiting_is___/',
+    linkTarget: '_blank'
+  },
   // MONGOLIA
   MN: {
     artist: 'Hurd',
@@ -174,6 +210,15 @@ export const countryList = {
     year: 2005,
     genres: 'Heavy Metal',
     link: 'https://rateyourmusic.com/release/album/hurd/evirleh_argagvi/',
+    linkTarget: '_blank'
+  },
+  // MYANMAR
+  MM: {
+    artist: 'Kyaw Myo Naing',
+    album: 'Pattalar Lat Than Myar',
+    year: 2013,
+    genres: 'Burmese Classical Music',
+    link: 'https://rateyourmusic.com/release/album/%E1%80%80%E1%80%BB%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA/%E1%80%95%E1%80%90%E1%80%B9%E1%80%90%E1%80%9C%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%80%E1%80%BA%E1%80%9E%E1%80%B6%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8__pattalar_lat_than_myar_/',
     linkTarget: '_blank'
   },
   // NORTH KOREA
@@ -192,6 +237,15 @@ export const countryList = {
     year: 1989,
     genres: 'Qawwali',
     link: 'https://rateyourmusic.com/release/album/nusrat-fateh-ali-khan/shahen-shah/',
+    linkTarget: '_blank'
+  },
+  // PHILIPPINES
+  PH: {
+    artist: 'Artist	Nitoy Gonzales and His Manila Rondalla',
+    album: 'Tinikling!: Folk Dances of the Philippines',
+    year: 1960,
+    genres: 'Philippine Music, Southeast Asian Folk Music',
+    link: 'https://rateyourmusic.com/release/album/nitoy-gonzales-and-his-manila-rondalla/tinikling-folk-dances-of-the-philippines/',
     linkTarget: '_blank'
   },
   // SOUTH KOREA
@@ -656,6 +710,15 @@ export const countryList = {
     year: 1999,
     genres: 'Ambient',
     link: 'https://rateyourmusic.com/release/album/david_parsons/shaman/',
+    linkTarget: '_blank'
+  },
+  // SAMOA
+  WS: {
+    artist: 'The Samoan Surfriders',
+    album: 'Let Me Hear You Whisper',
+    year: 1964,
+    genres: 'Polynesian Music',
+    link: 'https://rateyourmusic.com/release/album/the-samoan-surfriders/let-me-hear-you-whisper/',
     linkTarget: '_blank'
   },
 
