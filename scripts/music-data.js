@@ -39,6 +39,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/lorchestre_tout_puissant_o_k__jazz/maby____tonton_zala_serieux/',
     linkTarget: '_blank'
   },
+  // EGYPT
+  EG: {
+    artist: 'Cairokee',
+    album: 'The Ugly Ducklings',
+    year: 2019,
+    genres: 'Alternative Rock, Electropop, Shaabi',
+    link: 'https://rateyourmusic.com/release/album/%D9%83%D8%A7%D9%8A%D8%B1%D9%88%D9%83%D9%8A/%D8%A3%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%A8%D8%B7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D8%A1-the-ugly-ducklings/',
+    linkTarget: '_blank'
+  },
   // EQUATORIAL GUINEA
   GQ: {
     artist: 'Lion Sitté',
@@ -55,6 +64,15 @@ export const countryList = {
     year: 1972,
     genres: 'Ethio-Jazz',
     link: 'https://rateyourmusic.com/release/album/mulatu-astatke/mulatu-of-ethiopia-3/',
+    linkTarget: '_blank'
+  },
+  // GAMBIA
+  GH: {
+    artist: 'Alhaji Bai Konte',
+    album: 'Kora Melodies: Music From Gambia, West Africa',
+    year: 1979,
+    genres: 'Mande Music',
+    link: 'https://rateyourmusic.com/release/album/alhaji-bai-konte/kora-melodies-music-from-gambia-west-africa/',
     linkTarget: '_blank'
   },
   // GHANA
@@ -100,6 +118,15 @@ export const countryList = {
     year: 2010,
     genres: 'Guajira, Mande Music',
     link: 'https://rateyourmusic.com/release/album/afrocubism/afrocubism/',
+    linkTarget: '_blank'
+  },
+  // MOROCCO
+  MA: {
+    artist: 'Kasbah Rockers',
+    album: 'Kasbah Rockers with Bill Laswell',
+    year: 2008,
+    genres: 'Ethnic Rock',
+    link: 'https://rateyourmusic.com/release/album/kasbah-rockers/kasbah-rockers-with-bill-laswell/',
     linkTarget: '_blank'
   },
   // NAMIBIA
