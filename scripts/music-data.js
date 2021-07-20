@@ -69,10 +69,10 @@ export const countryList = {
   // GAMBIA
   GH: {
     artist: 'Alhaji Bai Konte',
-    album: 'Kora Melodies: Music From Gambia, West Africa',
-    year: 1979,
+    album: 'Kora Melodies from the Republic of the Gambia, West Africa',
+    year: 1973,
     genres: 'Mande Music',
-    link: 'https://rateyourmusic.com/release/album/alhaji-bai-konte/kora-melodies-music-from-gambia-west-africa/',
+    link: 'https://rateyourmusic.com/release/album/alhaji-bai-konte/kora-melodies-from-the-republic-of-the-gambia-west-africa/',
     linkTarget: '_blank'
   },
   // GHANA
@@ -323,6 +323,15 @@ export const countryList = {
 
 
   //! CARIBBEAN
+  // BAHAMAS
+  BS: {
+    artist: 'Exuma',
+    album: 'Exuma',
+    year: 1970,
+    genres: 'Freak Folk, Goombay, Junkanoo',
+    link: 'https://rateyourmusic.com/release/album/exuma/exuma/',
+    linkTarget: '_blank'
+  },
   // CUBA
   CU: {
     artist: 'Buena Vista Social Club',
@@ -386,6 +395,15 @@ export const countryList = {
     year: 1993,
     genres: 'Balkan Folk Music, Film Score',
     link: 'https://rateyourmusic.com/release/album/goran-bregovic/arizona-dream/',
+    linkTarget: '_blank'
+  },
+  // CROATIA
+  HR: {
+    artist: 'KOKTELSI',
+    album: 'Rsaaaj !!!',
+    year: 2006,
+    genres: 'Balkan Folk Music, Polka',
+    link: 'https://rateyourmusic.com/release/album/koktelsi/rsaaaj-/',
     linkTarget: '_blank'
   },
   // DENMARK
