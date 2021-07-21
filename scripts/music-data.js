@@ -12,6 +12,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/khaled/khaled/',
     linkTarget: '_blank'
   },
+  // BENIN
+  BJ: {
+    artist: 'Angélique Kidjo',
+    album: 'Black Ivory Soul',
+    year: 2002,
+    genres: 'Fon Music',
+    link: 'https://rateyourmusic.com/release/album/angelique-kidjo/black-ivory-soul/',
+    linkTarget: '_blank'
+  },
   // CAMEROON
   CM: {
     artist: 'Francis Bebey',
@@ -102,6 +111,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/magic-system/1er-gaou/',
     linkTarget: '_blank'
   },
+  // LIBYA
+  LY: {
+    artist: 'Hamid El Shaeri',
+    album: 'Raheel',
+    year: 1984,
+    genres: 'Al Jeel',
+    link: 'https://rateyourmusic.com/release/album/%D8%AD%D9%85%D9%8A%D8%AF_%D8%A7%D9%84%D8%B4%D8%A7%D8%B9%D8%B1%D9%8A/raheel/',
+    linkTarget: '_blank'
+  },
   // MADAGASCAR
   MG: {
     artist: 'D\'Gary',
@@ -176,6 +194,15 @@ export const countryList = {
   },
 
   //! ASIA
+  // BANGLADESH
+  BD: {
+    artist: 'Ali Akbar Khan',
+    album: 'Morning & Evening Ragas',
+    year: 1966,
+    genres: 'Hindustani Classical Music',
+    link: 'https://rateyourmusic.com/release/album/ali-akbar-khan/morning-and-evening-ragas/',
+    linkTarget: '_blank'
+  },
   // CHINA
   CN: {
     artist: 'Enmity',
