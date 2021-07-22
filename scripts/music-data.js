@@ -12,6 +12,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/khaled/khaled/',
     linkTarget: '_blank'
   },
+  // ANGOLA
+  AO: {
+    artist: 'Bonga',
+    album: 'Angola 74',
+    year: 1974,
+    genres: 'Morna, Semba',
+    link: 'hhttps://rateyourmusic.com/release/album/bonga/angola-74/',
+    linkTarget: '_blank'
+  },
   // BENIN
   BJ: {
     artist: 'Angélique Kidjo',
@@ -37,6 +46,15 @@ export const countryList = {
     year: 1980,
     genres: 'Funanà',
     link: 'https://rateyourmusic.com/release/album/americo-brito/sintado-na-pracinha/',
+    linkTarget: '_blank'
+  },
+  // CHAD
+  TD: {
+    artist: 'Maitre Gazonga',
+    album: 'Les Jaloux Saboteurs',
+    year: 1983,
+    genres: 'Highlife, Soukous',
+    link: 'https://rateyourmusic.com/release/album/maitre-gazonga/les-jaloux-saboteurs/',
     linkTarget: '_blank'
   },
   // CONGO
