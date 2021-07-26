@@ -201,6 +201,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/felix-laband/dark-days-exit/',
     linkTarget: '_blank'
   },
+  // SUDAN
+  SD: {
+    artist: 'Al Agarib',
+    album: 'Jazz',
+    year: 1980,
+    genres: 'Jazz-Funk',
+    link: 'https://rateyourmusic.com/release/album/%D9%81%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A8-%D9%88-%D8%B3%D9%8A%D9%81-%D8%A7%D8%A8%D9%88%D8%A8%D9%83%D8%B1-saif-abu-bakr-w-al-agarib/%D8%A7%D9%84%D8%AC%D8%A7%D8%B2-jazz.p/',
+    linkTarget: '_blank'
+  },
   // ZAMBIA
   ZM: {
     artist: 'Musi-O-Tunya',
@@ -395,6 +404,18 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/the-esso-trinidad-steel-band/the-esso-trinidad-steel-band/',
     linkTarget: '_blank'
   },
+
+  //! CENTRAL AMERICA
+  // Panama
+  PN: {
+    artist: 'Willie Colón & Rubén Blades',
+    album: 'Siembra',
+    year: 1978,
+    genres: 'Latin Jazz, Salsa Dura',
+    link: 'https://rateyourmusic.com/artist/willie_colon_and_ruben_blades/',
+    linkTarget: '_blank'
+  },
+
 
   //! EUROPE
   // Andorra
@@ -821,6 +842,15 @@ export const countryList = {
     year: 2007,
     genres: 'Electrotango',
     link: 'https://rateyourmusic.com/release/album/bajofondo/mar-dulce/',
+    linkTarget: '_blank'
+  },
+  // BOLIVIA
+  BO: {
+    artist: 'Gato Diablo',
+    album: 'La Importancia De Tener Un Cuerpo',
+    year: 2012,
+    genres: 'Deathrock, Post-Punk, Synthwave',
+    link: 'https://rateyourmusic.com/release/album/gato-diablo/la-importancia-de-tener-un-cuerpo/',
     linkTarget: '_blank'
   },
   // BRASIL
