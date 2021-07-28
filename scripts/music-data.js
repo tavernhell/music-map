@@ -156,6 +156,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/afrocubism/afrocubism/',
     linkTarget: '_blank'
   },
+  // MAURITANIA
+  MR: {
+    artist: 'Noura Mint Seymali',
+    album: 'Tzenni',
+    year: 2014,
+    genres: 'Moorish Music, Tuareg Music',
+    link: 'https://rateyourmusic.com/release/album/noura_mint_seymali/tzenni/',
+    linkTarget: '_blank'
+  },
   // MOROCCO
   MA: {
     artist: 'Kasbah Rockers',
@@ -395,6 +404,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/buena_vista_social_club/buena_vista_social_club/',
     linkTarget: '_blank'
   },
+  // GRENADA
+  GD: {
+    artist: 'Mighty Sparrow',
+    album: 'Hot And Sweet',
+    year: 1974,
+    genres: 'Calypso',
+    link: 'https://rateyourmusic.com/artist/mighty-sparrow',
+    linkTarget: '_blank'
+  },
   // TRINIDAD AND TOBAGO
   TT: {
     artist: 'The Esso Trinidad Steel Band',
@@ -407,7 +425,7 @@ export const countryList = {
 
   //! CENTRAL AMERICA
   // Panama
-  PN: {
+  PA: {
     artist: 'Willie Colón & Rubén Blades',
     album: 'Siembra',
     year: 1978,
