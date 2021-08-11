@@ -183,6 +183,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/shishani-and-the-namibian-tales/itaala/',
     linkTarget: '_blank'
   },
+  // NIGER
+  NE: {
+    artist: 'Mdou Moctar',
+    album: 'Afrique Victim',
+    year: 2021,
+    genres: 'Psychedelic Rock, Tishoumaren',
+    link: 'https://rateyourmusic.com/release/album/mdou-moctar/afrique-victime/',
+    linkTarget: '_blank'
+  },
   // NIGERIA
   NG: {
     artist: 'Fela Ransome-Kuti & The Africa 70',
@@ -773,6 +782,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/rabih-abou-khalil/blue-camel/',
     linkTarget: '_blank'
   },
+  // OMAN
+  OM: {
+    artist: 'Lamya',
+    album: 'Learning From Falling',
+    year: 2002,
+    genres: 'Neo-Soul, Pop',
+    link: 'https://rateyourmusic.com/release/album/lamya/learning-from-falling-1/',
+    linkTarget: '_blank'
+  },
   // SAUDI ARABIA
   SA: {
     artist: 'Mahmoud Awad',
@@ -780,6 +798,15 @@ export const countryList = {
     year: 2009,
     genres: 'Dabke, Experimental, Neo-Psychedelia',
     link: 'https://rateyourmusic.com/release/album/mahmoud-awad/sheikh-to-the-f_u_t_u_r_e/',
+    linkTarget: '_blank'
+  },
+  // YEMEN
+  YE: {
+    artist: 'Margalit Ankory',
+    album: 'Travel With Me My Dove and Listen to Me!: Songs of the Middle East',
+    year: 1976,
+    genres: 'Arabic Folk Music, Spoken Word',
+    link: 'https://rateyourmusic.com/release/album/margalit-ankory/travel-with-me-my-dove-and-listen-to-me-songs-of-the-middle-east/',
     linkTarget: '_blank'
   },
 
@@ -896,6 +923,24 @@ export const countryList = {
     year: 2012,
     genres: 'Death Metal',
     link: 'https://rateyourmusic.com/release/album/headcrusher/let_the_blood_run/',
+    linkTarget: '_blank'
+  },
+  // ECUADOR
+  EC: {
+    artist: 'Nicola Cruz',
+    album: 'Prender El Alma',
+    year: 2015,
+    genres: 'Downtempo, Latin Electronic',
+    link: 'https://rateyourmusic.com/release/album/nicola-cruz/prender-el-alma/',
+    linkTarget: '_blank'
+  },
+  // PARAGUAY
+  PY: {
+    artist: 'EEEKS',
+    album: 'Pet City',
+    year: 2017,
+    genres: 'Indie Pop, Psychedelic Pop',
+    link: 'https://rateyourmusic.com/release/album/eeeks/pet-city/',
     linkTarget: '_blank'
   },
   // PERU
