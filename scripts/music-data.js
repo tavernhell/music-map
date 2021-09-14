@@ -30,6 +30,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/angelique-kidjo/black-ivory-soul/',
     linkTarget: '_blank'
   },
+  // BURKINA FASO
+  BF: {
+    artist: 'Cheikh Lô',
+    album: 'Né La Thiass',
+    year: 1996,
+    genres: 'Mbalax, Soukous',
+    link: 'https://rateyourmusic.com/release/album/cheikh-lo/ne-la-thiass-4/',
+    linkTarget: '_blank'
+  },
   // CAMEROON
   CM: {
     artist: 'Francis Bebey',
@@ -488,6 +497,15 @@ export const countryList = {
     year: 1993,
     genres: 'Balkan Folk Music, Film Score',
     link: 'https://rateyourmusic.com/release/album/goran-bregovic/arizona-dream/',
+    linkTarget: '_blank'
+  },
+  // CZECHIA
+  CZ: {
+    artist: 'Flamengo',
+    album: 'Kuře v hodinkách',
+    year: 1972,
+    genres: 'Jazz-Rock, Progressive Rock',
+    link: 'https://rateyourmusic.com/release/album/flamengo/kure-v-hodinkach/',
     linkTarget: '_blank'
   },
   // CROATIA
@@ -950,6 +968,15 @@ export const countryList = {
     year: 1954,
     genres: 'Exotica, Mambo',
     link: 'https://rateyourmusic.com/release/album/yma-sumac/mambo/',
+    linkTarget: '_blank'
+  },
+  // SURINAME
+  SR: {
+    artist: 'Yma SúmacLieve Hugo',
+    album: 'King of Kasèko',
+    year: 1974,
+    genres: 'Kaseko, Mambo',
+    link: 'https://rateyourmusic.com/release/album/lieve-hugo/king-of-kaseko/',
     linkTarget: '_blank'
   },
   // URUGUAY
