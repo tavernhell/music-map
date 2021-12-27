@@ -12,14 +12,24 @@
   <script src="//cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
   <script src="//cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.2.0/dist/svgMap.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+
+  <!-- COUNTER -->
+  <script async src="https://api.countapi.xyz/hit/tavernhell-music-map/visits?callback=liveViews"></script>
   
   <script type="module">
     import "./scripts/music-map.js";
     import "./scripts/music-table.js";
+
+    function liveViews(response) {
+      document.getElementById('visits').innerText = response.value;
+    }
   </script>
+
 </head>
 
 <body>
+  <div id="live-counter-div">This page has been visited <span id="visits"></span> times.</div>
+
   <div id="music-map-div" class="hideable">
     <div class="text-center">
       <h1>My Music Map</h1>
@@ -34,29 +44,31 @@
     <div style="padding: 30px 0"></div>
   </div>
 
+  <div id="music-table-div">
     <div class="text-center">
       <h1>Table Version</h1>
       <p class="display-small">The interactive map isn't available for your screen size :(, you can still check the releases in the table below!</p>
       <p>Click on the header (except for genres) to sort the table. Clicking on the album will bring you to its RYM page.</p>
     </div>
-  <div id="table-container" class="m-auto">
-    <div id="filter-container" class="p-1">
-      <!-- FILTERS -->
-      <input class="search m-auto" placeholder="Search...">
-    </div>
-    <!-- TABLE -->
-    <table id="music-table">
-      <thead>
-        <th class="sort" data-sort="country">Country</th>
-        <th class="sort" data-sort="artist">Artist</th>
-        <th class="sort" data-sort="album">Album</th>
-        <th class="sort" data-sort="year">Year</th>
-        <th>Genre(s)</th>
-      </thead>
-      <tbody class="list">
+    <div id="table-container" class="m-auto">
+      <div id="filter-container" class="p-1">
+        <!-- FILTERS -->
+        <input class="search m-auto" placeholder="Search...">
+      </div>
+      <!-- TABLE -->
+      <table id="music-table">
+        <thead>
+          <th class="sort" data-sort="country">Country</th>
+          <th class="sort" data-sort="artist">Artist</th>
+          <th class="sort" data-sort="album">Album</th>
+          <th class="sort" data-sort="year">Year</th>
+          <th>Genre(s)</th>
+        </thead>
+        <tbody class="list">
 
-      </tbody>
-    </table>
+        </tbody>
+      </table>
+    </div>
   </div>
 </body>
 </html>

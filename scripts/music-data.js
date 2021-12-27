@@ -138,6 +138,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/magic-system/1er-gaou/',
     linkTarget: '_blank'
   },
+  // LIBERIA
+  LR: {
+    artist: 'Kapingbdi',
+    album: 'Born In The Night',
+    year: 2019,
+    genres: 'Afro-Jazz, Afrobeat',
+    link: 'https://rateyourmusic.com/release/comp/kapingbdi/born-in-the-night/',
+    linkTarget: '_blank'
+  },
   // LIBYA
   LY: {
     artist: 'Hamid El Shaeri',
