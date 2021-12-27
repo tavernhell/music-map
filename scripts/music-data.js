@@ -210,15 +210,6 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/fela-ransome-kuti-and-the-africa-70/confusion/',
     linkTarget: '_blank'
   },
-  // TOGO
-  TG: {
-    artist: 'Akofa Akoussah',
-    album: 'Akofa Akoussah',
-    year: 1976,
-    genres: 'Chanson, Ewe Music',
-    link: 'https://rateyourmusic.com/release/album/akofa-akoussah/akofa-akoussah/',
-    linkTarget: '_blank'
-  },
   // SOUTH AFRICA
   ZA: {
     artist: 'Felix Laband',
@@ -235,6 +226,24 @@ export const countryList = {
     year: 1980,
     genres: 'Jazz-Funk',
     link: 'https://rateyourmusic.com/release/album/%D9%81%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A8-%D9%88-%D8%B3%D9%8A%D9%81-%D8%A7%D8%A8%D9%88%D8%A8%D9%83%D8%B1-saif-abu-bakr-w-al-agarib/%D8%A7%D9%84%D8%AC%D8%A7%D8%B2-jazz.p/',
+    linkTarget: '_blank'
+  },
+  // TOGO
+  TG: {
+    artist: 'Akofa Akoussah',
+    album: 'Akofa Akoussah',
+    year: 1976,
+    genres: 'Chanson, Ewe Music',
+    link: 'https://rateyourmusic.com/release/album/akofa-akoussah/akofa-akoussah/',
+    linkTarget: '_blank'
+  },
+  // TUNISIA
+  TN: {
+    artist: 'Corinne Allal',
+    album: 'Antartica',
+    year: 1989,
+    genres: 'Rock',
+    link: 'https://rateyourmusic.com/release/album/%D7%A7%D7%95%D7%A8%D7%99%D7%9F-%D7%90%D7%9C%D7%90%D7%9C/antarctica/',
     linkTarget: '_blank'
   },
   // ZAMBIA
@@ -591,11 +600,11 @@ export const countryList = {
   },
   // ICELAND
   IS: {
-    artist: 'Sigur Rós',
-    album: '()',
-    year: 2002,
-    genres: 'Post-Rock',
-    link: 'https://rateyourmusic.com/release/album/sigur-ros/-/',
+    artist: 'NYIÞ',
+    album: 'Til Eru Hræ Sem Hafa Aldrei Verið Menn Og Munu Aldrei Verða Þó Þau Lifi Enn',
+    year: 2011,
+    genres: 'Avant-garde Jazz, Dark Ambient',
+    link: 'https://rateyourmusic.com/release/album/nyi_/til_eru_hrae_sem_hafa_aldrei_verid_menn_og_munu_aldrei_verda_do_dau_lifi_enn/',
     linkTarget: '_blank'
   },
   // IRELAND
