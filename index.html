@@ -14,15 +14,17 @@
   <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
 
   <!-- COUNTER -->
-  <script async src="https://api.countapi.xyz/hit/tavernhell-music-map/visits?callback=liveViews"></script>
-  
-  <script type="module">
-    import "./scripts/music-map.js";
-    import "./scripts/music-table.js";
-
+  <script>
     function liveViews(response) {
       document.getElementById('visits').innerText = response.value;
     }
+  </script>
+  <script async src="https://api.countapi.xyz/hit/tavernhell-music-map/visits?callback=liveViews"></script>
+  
+
+  <script type="module">
+    import "./scripts/music-map.js";
+    import "./scripts/music-table.js";
   </script>
 
 </head>
