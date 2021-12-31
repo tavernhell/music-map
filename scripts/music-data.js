@@ -75,6 +75,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/lorchestre_tout_puissant_o_k__jazz/maby____tonton_zala_serieux/',
     linkTarget: '_blank'
   },
+  // DJIBOUTI
+  DJ: {
+    artist: 'Groupe RTD',
+    album: 'The Dancing Devils Of Djibouti',
+    year: 2020,
+    genres: 'Qaraami',
+    link: 'https://rateyourmusic.com/release/album/groupe-rtd/the-dancing-devils-of-djibouti/',
+    linkTarget: '_blank'
+  },
   // EGYPT
   EG: {
     artist: 'Cairokee',
@@ -219,6 +228,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/fela-ransome-kuti-and-the-africa-70/confusion/',
     linkTarget: '_blank'
   },
+  // SOMALIA
+  SO: {
+    artist: 'Dur-Dur Band',
+    album: 'Volume 5',
+    year: 2013,
+    genres: 'Funk, Qaraami',
+    link: 'https://rateyourmusic.com/release/album/dur-dur-band/volume-5/',
+    linkTarget: '_blank'
+  },
   // SOUTH AFRICA
   ZA: {
     artist: 'Felix Laband',
@@ -244,6 +262,15 @@ export const countryList = {
     year: 1976,
     genres: 'Chanson, Ewe Music',
     link: 'https://rateyourmusic.com/release/album/akofa-akoussah/akofa-akoussah/',
+    linkTarget: '_blank'
+  },
+  // TANZANIA
+  TZ: {
+    artist: 'Siti Muharam',
+    album: 'Siti of Unguja (Romance Revolution on Zanzibar)',
+    year: 2020,
+    genres: 'Taraab',
+    link: 'https://rateyourmusic.com/release/album/siti-muharam/siti-of-unguja-romance-revolution-on-zanzibar/',
     linkTarget: '_blank'
   },
   // TUNISIA
