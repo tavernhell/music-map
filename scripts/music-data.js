@@ -394,7 +394,7 @@ export const countryList = {
   },
   // PHILIPPINES
   PH: {
-    artist: 'Artist	Nitoy Gonzales and His Manila Rondalla',
+    artist: 'Nitoy Gonzales and His Manila Rondalla',
     album: 'Tinikling!: Folk Dances of the Philippines',
     year: 1960,
     genres: 'Philippine Music, Southeast Asian Folk Music',
