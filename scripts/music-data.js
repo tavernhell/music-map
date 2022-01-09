@@ -174,6 +174,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/dgary/malagasy-guitar/',
     linkTarget: '_blank'
   },
+  // MALAWI
+  MW: {
+    artist: 'Dick Khoza',
+    album: 'Chapita',
+    year: 1976,
+    genres: 'Afro-Jazz, Jazz-Funk',
+    link: 'https://rateyourmusic.com/release/album/dick_khoza/chapita/',
+    linkTarget: '_blank'
+  },
   // MALI
   ML: {
     artist: 'AfroCubism',
@@ -199,6 +208,15 @@ export const countryList = {
     year: 2008,
     genres: 'Ethnic Rock',
     link: 'https://rateyourmusic.com/release/album/kasbah-rockers/kasbah-rockers-with-bill-laswell/',
+    linkTarget: '_blank'
+  },
+  // MOZAMBIQUE
+  MZ: {
+    artist: '340ml',
+    album: 'Sorry For The Delay',
+    year: 2008,
+    genres: 'Dub, Marrabente',
+    link: 'https://rateyourmusic.com/release/album/340ml/sorry_for_the_delay/',
     linkTarget: '_blank'
   },
   // NAMIBIA
@@ -280,6 +298,15 @@ export const countryList = {
     year: 1989,
     genres: 'Rock',
     link: 'https://rateyourmusic.com/release/album/%D7%A7%D7%95%D7%A8%D7%99%D7%9F-%D7%90%D7%9C%D7%90%D7%9C/antarctica/',
+    linkTarget: '_blank'
+  },
+  // WESTERN SAHARA
+  EH: {
+    artist: 'Group Doueh',
+    album: 'Zayna Jumma',
+    year: 2011,
+    genres: ' Sahrawi Music, Tishoumaren',
+    link: 'https://rateyourmusic.com/release/album/group-doueh/zayna-jumma/',
     linkTarget: '_blank'
   },
   // ZAMBIA
