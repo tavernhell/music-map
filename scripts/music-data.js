@@ -102,6 +102,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/lion_sitte/otros_tiempos/',
     linkTarget: '_blank'
   },
+  // ERITREA
+  ER: {
+    artist: 'Asmara Allstars',
+    album: 'Eritrea\'s Got Soul',
+    year: 2010,
+    genres: 'Afro-Jazz, Dub, Tizita',
+    link: 'https://rateyourmusic.com/release/album/asmara_allstars/eritreas_got_soul/',
+    linkTarget: '_blank'
+  },
   // ETHIOPIA
   ET: {
     artist: 'Mulatu Astatke',
@@ -327,6 +336,15 @@ export const countryList = {
     year: 1966,
     genres: 'Hindustani Classical Music',
     link: 'https://rateyourmusic.com/release/album/ali-akbar-khan/morning-and-evening-ragas/',
+    linkTarget: '_blank'
+  },
+  // CAMBODIA
+  KH: {
+    artist: 'Dengue Fever',
+    album: 'Escape from Dragon House',
+    year: 2005,
+    genres: 'Cambodian Pop, Psychedelic Pop',
+    link: 'https://rateyourmusic.com/release/album/dengue_fever/escape_from_dragon_house/',
     linkTarget: '_blank'
   },
   // CHINA
