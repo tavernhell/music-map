@@ -156,6 +156,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/magic-system/1er-gaou/',
     linkTarget: '_blank'
   },
+  // IVORY COAST
+  CI: {
+    artist: 'Extra Golden',
+    album: 'Hara Ma Nono',
+    year: 2007,
+    genres: 'Benga, Boogie Rock',
+    link: 'https://rateyourmusic.com/release/album/extra_golden/hera_ma_nono/',
+    linkTarget: '_blank'
+  },
   // LIBERIA
   LR: {
     artist: 'Kapingbdi',
@@ -325,6 +334,15 @@ export const countryList = {
     year: 1975,
     genres: 'Zamrock',
     link: 'https://rateyourmusic.com/release/album/musi-o-tunya/give-love-to-your-children/',
+    linkTarget: '_blank'
+  },
+  // ZIMBABWE
+  ZW: {
+    artist: 'Dumisani Maraire',
+    album: 'The African Mbira: Music of the Shona People of Rhodesia',
+    year: 1971,
+    genres: 'Shona Mbira Music',
+    link: 'https://rateyourmusic.com/release/album/dumisani-maraire/the-african-mbira-music-of-the-shona-people-of-rhodesia/',
     linkTarget: '_blank'
   },
 
