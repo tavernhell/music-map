@@ -156,8 +156,8 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/magic-system/1er-gaou/',
     linkTarget: '_blank'
   },
-  // IVORY COAST
-  CI: {
+  // KENYA
+  KE: {
     artist: 'Extra Golden',
     album: 'Hara Ma Nono',
     year: 2007,
@@ -374,6 +374,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/%E6%80%A8/%E5%B7%AB%E6%80%A8-wuyuan/',
     linkTarget: '_blank'
   },
+  // GEORGIA
+  GE: {
+    artist: 'Sinatlis Tselitsadi',
+    album: 'Gza Tsisken',
+    year: 2004,
+    genres: 'Progressive Rock',
+    link: 'https://rateyourmusic.com/release/album/%E1%83%A1%E1%83%98%E1%83%9C%E1%83%90%E1%83%97%E1%83%9A%E1%83%98%E1%83%A1-%E1%83%AC%E1%83%94%E1%83%9A%E1%83%98%E1%83%AC%E1%83%90%E1%83%93%E1%83%98/gza-tsisken-sky-way/',
+    linkTarget: '_blank'
+  },
   // INDIA
   IN: {
     artist: 'Rakesh Chaurasia',
@@ -536,7 +545,16 @@ export const countryList = {
     album: 'Hot And Sweet',
     year: 1974,
     genres: 'Calypso',
-    link: 'https://rateyourmusic.com/artist/mighty-sparrow',
+    link: 'https://rateyourmusic.com/release/album/mighty-sparrow/hot-and-sweet/',
+    linkTarget: '_blank'
+  },
+  // JAMAICA
+  JM: {
+    artist: 'Dadawah',
+    album: 'Peace And Love',
+    year: 1974,
+    genres: 'Nyahbinghi, Reggae',
+    link: 'https://rateyourmusic.com/release/album/dadawah/peace-and-love/',
     linkTarget: '_blank'
   },
   // TRINIDAD AND TOBAGO
