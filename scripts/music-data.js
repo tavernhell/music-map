@@ -121,12 +121,12 @@ export const countryList = {
     linkTarget: '_blank'
   },
   // GAMBIA
-  GH: {
-    artist: 'Alhaji Bai Konte',
-    album: 'Kora Melodies from the Republic of the Gambia, West Africa',
-    year: 1973,
-    genres: 'Mande Music',
-    link: 'https://rateyourmusic.com/release/album/alhaji-bai-konte/kora-melodies-from-the-republic-of-the-gambia-west-africa/',
+  GM: {
+    artist: 'Amadu Bamba',
+    album: 'Drums Of The Firdu Fula',
+    year: 1990,
+    genres: 'Fula Music',
+    link: 'https://rateyourmusic.com/release/album/amadu_bamba/drums_of_the_firdu_fula/',
     linkTarget: '_blank'
   },
   // GHANA
@@ -145,6 +145,15 @@ export const countryList = {
     year: 1983,
     genres: 'Mande Music',
     link: 'https://rateyourmusic.com/release/album/djeli-moussa-diawara/yasimika/',
+    linkTarget: '_blank'
+  },
+  // GUINEA-BISSAU
+  GW: {
+    artist: 'N\'kassa Cobra',
+    album: 'Unidade luta progresso',
+    year: 1983,
+    genres: 'Gumbe',
+    link: 'https://rateyourmusic.com/release/album/nkassa-cobra/unidade-luta-progresso/',
     linkTarget: '_blank'
   },
   // IVORY COAST
@@ -262,6 +271,24 @@ export const countryList = {
     year: 1974,
     genres: 'Afrobeat, Jazz-Funk',
     link: 'https://rateyourmusic.com/release/album/fela-ransome-kuti-and-the-africa-70/confusion/',
+    linkTarget: '_blank'
+  },
+  // SENEGAL
+  SN: {
+    artist: 'Youssou N\'Dour',
+    album: 'Set',
+    year: 1990,
+    genres: 'Mbalax',
+    link: 'https://rateyourmusic.com/release/album/youssou_ndour/set/',
+    linkTarget: '_blank'
+  },
+  // SIERRA LEONE
+  SL: {
+    artist: 'Afro National',
+    album: 'African Experimentals (1972-1979)',
+    year: 2018,
+    genres: 'Highlife, Soukous',
+    link: 'https://rateyourmusic.com/release/comp/afro-national/african-experimentals-1972-1979/',
     linkTarget: '_blank'
   },
   // SOMALIA
