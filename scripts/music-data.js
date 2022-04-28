@@ -1152,7 +1152,7 @@ export const countryList = {
   },
   // SURINAME
   SR: {
-    artist: 'Yma SúmacLieve Hugo',
+    artist: 'Lieve Hugo',
     album: 'King of Kasèko',
     year: 1974,
     genres: 'Kaseko, Mambo',
