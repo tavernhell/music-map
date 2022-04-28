@@ -1105,6 +1105,33 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/nicola-cruz/prender-el-alma/',
     linkTarget: '_blank'
   },
+  // FALKLAND ISLANDS
+  FK: {
+    artist: 'Bloodrust',
+    album: 'A Legacy Of Vengeance',
+    year: 2021,
+    genres: 'Death Metal',
+    link: 'https://rateyourmusic.com/release/album/bloodrust/a-legacy-of-vengeance/',
+    linkTarget: '_blank'
+  },
+  // FRENCH GUIANA
+  GF: {
+    artist: 'Henri Salvador',
+    album: 'Chambre Avec Vue',
+    year: 2000,
+    genres: 'Bossa Nova, Chanson',
+    link: 'https://rateyourmusic.com/release/album/henri_salvador/chambre_avec_vue/',
+    linkTarget: '_blank'
+  },
+  // GUYANA
+  GY: {
+    artist: 'Cameron',
+    album: 'Cameron',
+    year: 1980,
+    genres: 'Disco, Funk',
+    link: 'https://rateyourmusic.com/release/album/cameron/cameron/',
+    linkTarget: '_blank'
+  },
   // PARAGUAY
   PY: {
     artist: 'EEEKS',
