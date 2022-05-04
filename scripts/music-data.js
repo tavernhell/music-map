@@ -575,6 +575,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/mighty-sparrow/hot-and-sweet/',
     linkTarget: '_blank'
   },
+  // HAITI
+  HT: {
+    artist: 'Jephté Guillaume',
+    album: 'Voyage Of Dreams',
+    year: 1998,
+    genres: 'Méringue, Tribal House',
+    link: 'https://rateyourmusic.com/release/album/jephte-guillaume/voyage-of-dreams/',
+    linkTarget: '_blank'
+  },
   // JAMAICA
   JM: {
     artist: 'Dadawah',
@@ -595,6 +604,15 @@ export const countryList = {
   },
 
   //! CENTRAL AMERICA
+  // BELIZE
+  BZ: {
+    artist: 'Umalali',
+    album: 'Umalali',
+    year: 2008,
+    genres: 'Freak Folk, Goombay, Junkanoo',
+    link: 'https://rateyourmusic.com/release/album/exuma/exuma/',
+    linkTarget: '_blank'
+  },
   // Panama
   PA: {
     artist: 'Willie Colón & Rubén Blades',
