@@ -2,7 +2,7 @@
 
 export const countryList = {
 
-  //! AFRICA
+  //#region AFRICA
   // ALGERIA
   DZ: {
     artist: 'Khaled',
@@ -372,8 +372,9 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/dumisani-maraire/the-african-mbira-music-of-the-shona-people-of-rhodesia/',
     linkTarget: '_blank'
   },
+  //#endregion AFRICA
 
-  //! ASIA
+  //#region ASIA
   // BANGLADESH
   BD: {
     artist: 'Ali Akbar Khan',
@@ -545,9 +546,9 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/tr%E1%BB%8Bnh-cong-son/nh%C6%B0-tieng-tho-dai/',
     linkTarget: '_blank'
   },
+  //#endregion Asia
 
-
-  //! CARIBBEAN
+  //#region CARIBBEAN
   // BAHAMAS
   BS: {
     artist: 'Exuma',
@@ -602,8 +603,9 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/the-esso-trinidad-steel-band/the-esso-trinidad-steel-band/',
     linkTarget: '_blank'
   },
+  //#endregion CARIBBEAN
 
-  //! CENTRAL AMERICA
+  //#region CENTRAL AMERICA
   // BELIZE
   BZ: {
     artist: 'Umalali',
@@ -622,9 +624,9 @@ export const countryList = {
     link: 'https://rateyourmusic.com/artist/willie_colon_and_ruben_blades/',
     linkTarget: '_blank'
   },
+  //#endregion CENTRAL AMERICA
 
-
-  //! EUROPE
+  //#region EUROPE
   // Andorra
   AD: {
     artist: 'Persefone',
@@ -877,6 +879,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/mimi-mercedez/nasminkam-se-i-pravim-haos/',
     linkTarget: '_blank'
   },
+  // SLOVAKIA
+  SK: {
+    artist: 'Komara',
+    album: 'Komara',
+    year: 2015,
+    genres: 'Avant-prog, Dark Jazz',
+    link: 'https://rateyourmusic.com/release/album/komara/komara/',
+    linkTarget: '_blank'
+  },
   // SLOVENIA
   SI: {
     artist: 'Gramatik',
@@ -940,10 +951,9 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/cappella_musicale_pontificia_sistina_massimo_palombella/cantate_domino/',
     linkTarget: '_blank'
   },
+  //#endregion EUROPE
 
-
-
-  //! MIDDLE EAST
+  //#region MIDDLE EAST
   // ISRAEL
   IL: {
     artist: 'Infected Mushroom',
@@ -998,9 +1008,9 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/margalit-ankory/travel-with-me-my-dove-and-listen-to-me-songs-of-the-middle-east/',
     linkTarget: '_blank'
   },
+  //#endregion MIDDLE EAST
 
-
-  //! NORTH AMERICA
+  //#region NORTH AMERICA
   // CANADA
   CA: {
     artist: 'Venetian Snares',
@@ -1028,6 +1038,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/santana/abraxas/',
     linkTarget: '_blank'
   },
+  // SAINT PIERRE AND MIQUELON
+  PM: {
+    artist: 'Dode',
+    album: 'Dode',
+    year: 2009,
+    genres: 'Alternative Rock, Chanson',
+    link: 'https://rateyourmusic.com/release/album/dode/dode/',
+    linkTarget: '_blank'
+  },
   // USA
   US: {
     artist: 'Mr. Bungle',
@@ -1037,8 +1056,9 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/mr-bungle/mr-bungle/',
     linkTarget: '_blank'
   },
+  //#endregion NORTH AMERICA
 
-  //! OCEANIA
+  //#region OCEANIA
   // AUSTRALIA
   AU: {
     artist: 'Dead Can Dance',
@@ -1066,9 +1086,9 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/the-samoan-surfriders/let-me-hear-you-whisper/',
     linkTarget: '_blank'
   },
+  //#endregion OCEANIA
 
-
-  //! SOUTH AMERICA
+  //#region SOUTH AMERICA
   // ARGENTINA
   AR: {
     artist: 'Bajofondo',
@@ -1195,4 +1215,5 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/comp/simon_diaz/sus_grandes_exitos/',
     linkTarget: '_blank'
   }
+  //#endregion SOUTH AMERICA
 }
