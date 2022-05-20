@@ -537,6 +537,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/erkin-koray/elektronik-turkuler/',
     linkTarget: '_blank'
   },
+  // UZBEKISTAN
+  UZ: {
+    artist: 'From.uz',
+    album: 'Overlook',
+    year: 2008,
+    genres: 'Progressive Rock',
+    link: 'https://rateyourmusic.com/release/album/from_uz/overlook/',
+    linkTarget: '_blank'
+  },
   // VIETNAM
   VN: {
     artist: 'Trịnh Công Sơn',
@@ -816,6 +825,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/ep/%D0%B0%D0%BF%D0%BE%D1%80%D1%94%D0%B0/%D0%BD%D0%B0-%D1%80%D1%94%D0%BA%D0%B0%D1%85%D1%8A-%D0%B2%D0%B0%D0%B2%D0%BB%D2%83%D0%BD%D1%81%D0%BA%D1%8B%D1%85%D1%8A-na-rekakh-vavilonskikh/',
     linkTarget: '_blank'
   },
+  // MONTENEGRO
+  ME: {
+    artist: 'Janko Nilovic (as E. Orti)',
+    album: 'Soul Impressions',
+    year: 1975,
+    genres: 'Jazz-Funk, Soul Jazz',
+    link: 'https://rateyourmusic.com/release/album/e-orti/soul-impressions/',
+    linkTarget: '_blank'
+  },
   // NETHERLANDS
   NL: {
     artist: 'YĪN YĪN',
@@ -1075,6 +1093,15 @@ export const countryList = {
     year: 1999,
     genres: 'Ambient',
     link: 'https://rateyourmusic.com/release/album/david_parsons/shaman/',
+    linkTarget: '_blank'
+  },
+  // PAPUA NEW GUINEA
+  PG: {
+    artist: '	Papua New Guinea Stringbands with Bob Brozman',
+    album: 'Songs Of The Volcano',
+    year: 2005,
+    genres: 'Papuan Folk Music, Slack-Key Guitar',
+    link: 'https://rateyourmusic.com/release/album/papua-new-guinea-stringbands-with-bob-brozman/songs-of-the-volcano/',
     linkTarget: '_blank'
   },
   // SAMOA

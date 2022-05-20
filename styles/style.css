@@ -25,6 +25,10 @@ h1, p {
   padding: 1rem 0;
 }
 
+#thanks, #thanks:hover {
+  color: #fff;
+}
+
 /*! MAP */
 #map-container {
   width: calc(82vw - 100px);
