@@ -576,6 +576,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/buena_vista_social_club/buena_vista_social_club/',
     linkTarget: '_blank'
   },
+  // DOMINICAN REPUBLIC
+  DO: {
+    artist: 'Billo\'s Caracas Boys',
+    album: 'Comunicando',
+    year: 1960,
+    genres: 'Guaracha, Merengue, Porro',
+    link: 'https://rateyourmusic.com/release/album/buena_vista_social_club/buena_vista_social_club/',
+    linkTarget: '_blank'
+  },
   // GRENADA
   GD: {
     artist: 'Mighty Sparrow',
