@@ -582,7 +582,7 @@ export const countryList = {
     album: 'Comunicando',
     year: 1960,
     genres: 'Guaracha, Merengue, Porro',
-    link: 'https://rateyourmusic.com/release/album/buena_vista_social_club/buena_vista_social_club/',
+    link: 'https://rateyourmusic.com/release/album/billos-caracas-boys/comunicando/',
     linkTarget: '_blank'
   },
   // GRENADA
@@ -645,7 +645,16 @@ export const countryList = {
   //#endregion CENTRAL AMERICA
 
   //#region EUROPE
-  // Andorra
+  // ALBANIA
+  AL: {
+    artist: 'I Tpame I Tvrame',
+    album: 'Ikin Vijnë',
+    year: 2018,
+    genres: 'Darkwave, Minimal Synth',
+    link: 'https://rateyourmusic.com/release/album/i-tpame-i-tvrame/ikin-vijne/',
+    linkTarget: '_blank'
+  },
+  // ANDORRA
   AD: {
     artist: 'Persefone',
     album: 'Shin-ken',
@@ -816,6 +825,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/tautumeitas/tautumeitas/',
     linkTarget: '_blank'
   },
+  // LITHUANIA
+  LT: {
+    artist: 'Gyvata',
+    album: 'Su Vėjužiu Kalbėjau',
+    year: 2012,
+    genres: 'Lithuanina Folk Music, Neofolk',
+    link: 'https://rateyourmusic.com/release/album/gyvata/su-vejuziu-kalbejau/',
+    linkTarget: '_blank'
+  },
   // LUXEMBOURG
   LU: {
     artist: 'ROME',
@@ -832,6 +850,15 @@ export const countryList = {
     year: 1988,
     genres: 'Christian Liturgical Music, Ritual Ambient',
     link: 'https://rateyourmusic.com/release/ep/%D0%B0%D0%BF%D0%BE%D1%80%D1%94%D0%B0/%D0%BD%D0%B0-%D1%80%D1%94%D0%BA%D0%B0%D1%85%D1%8A-%D0%B2%D0%B0%D0%B2%D0%BB%D2%83%D0%BD%D1%81%D0%BA%D1%8B%D1%85%D1%8A-na-rekakh-vavilonskikh/',
+    linkTarget: '_blank'
+  },
+  // MONACO
+  MC: {
+    artist: 'Hardcore Anal Hydrogen',
+    album: 'HyperCut',
+    year: 2018  ,
+    genres: '	Avant-Garde Metal, Digital Hardcore',
+    link: 'https://rateyourmusic.com/release/album/hah/hypercut/',
     linkTarget: '_blank'
   },
   // MONTENEGRO
