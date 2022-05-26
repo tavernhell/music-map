@@ -924,6 +924,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/kauan/sorni-nai/',
     linkTarget: '_blank'
   },
+  // SAN MARINO
+  SM: {
+    artist: 'Alessandro Arzilli',
+    album: 'Musa',
+    year: 2019,
+    genres: 'Progressive Metal',
+    link: 'https://rateyourmusic.com/release/album/alessandro-arzilli/musa/',
+    linkTarget: '_blank'
+  },
   // SERBIA
   RS: {
     artist: 'Mimi Mercedez',
