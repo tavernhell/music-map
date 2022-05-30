@@ -699,6 +699,15 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/album/goran-bregovic/arizona-dream/',
     linkTarget: '_blank'
   },
+  // BULGARIA
+  BG: {
+    artist: 'Борис Гуджунов',
+    album: 'Борис Гуджунов',
+    year: 1978,
+    genres: 'Pop, Soviet Estrada',
+    link: 'https://rateyourmusic.com/release/album/%D0%B1%D0%BE%D1%80%D0%B8%D1%81-%D0%B3%D1%83%D0%B4%D0%B6%D1%83%D0%BD%D0%BE%D0%B2/%D0%B1%D0%BE%D1%80%D0%B8%D1%81-%D0%B3%D1%83%D0%B4%D0%B6%D1%83%D0%BD%D0%BE%D0%B2/',
+    linkTarget: '_blank'
+  },
   // CZECHIA
   CZ: {
     artist: 'Flamengo',
@@ -852,12 +861,30 @@ export const countryList = {
     link: 'https://rateyourmusic.com/release/ep/%D0%B0%D0%BF%D0%BE%D1%80%D1%94%D0%B0/%D0%BD%D0%B0-%D1%80%D1%94%D0%BA%D0%B0%D1%85%D1%8A-%D0%B2%D0%B0%D0%B2%D0%BB%D2%83%D0%BD%D1%81%D0%BA%D1%8B%D1%85%D1%8A-na-rekakh-vavilonskikh/',
     linkTarget: '_blank'
   },
+  // MALTA
+  MT: {
+    artist: 'JOON',
+    album: 'Dream Again',
+    year: 2021,
+    genres: 'Synth-pop, Space Disco',
+    link: 'https://rateyourmusic.com/release/album/joon/dream-again/',
+    linkTarget: '_blank'
+  },
+  // MOLDOVA
+  MD: {
+    artist: 'Zdob şi Zdub',
+    album: 'Tabăra Noastra',
+    year: 1999,
+    genres: 'Folk Punk, Gypsy Punk',
+    link: 'https://rateyourmusic.com/release/album/zdob-si-zdub/tabara-noastra/',
+    linkTarget: '_blank'
+  },
   // MONACO
   MC: {
     artist: 'Hardcore Anal Hydrogen',
     album: 'HyperCut',
-    year: 2018  ,
-    genres: '	Avant-Garde Metal, Digital Hardcore',
+    year: 2018,
+    genres: 'Avant-Garde Metal, Digital Hardcore',
     link: 'https://rateyourmusic.com/release/album/hah/hypercut/',
     linkTarget: '_blank'
   },
